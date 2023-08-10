@@ -1,6 +1,6 @@
 package controle.television;
 
-import interfaces.Controlador;
+import controle.interfaces.Controlador;
 
 import java.util.List;
 
